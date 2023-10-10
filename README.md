@@ -2,4 +2,5 @@
 
 A basic web page built using React. This page displays a few core concepts about the popular JavaScript library.
 
-<img width="1416" alt="image" src="https://github.com/stephenkettley/basic-react-website/assets/109079565/06c21616-7151-40a1-9456-79eb9b57adc0">
+![image](https://github.com/stephenkettley/basic-react-website/assets/109079565/dcd80eba-e577-4064-8e4f-6e7e85a684b5)
+
