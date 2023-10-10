@@ -1,4 +1,4 @@
-# Basic React Web Page
+# Basic React Website
 
 A basic web page built using React. This page displays a few core concepts about the popular JavaScript library.
 
